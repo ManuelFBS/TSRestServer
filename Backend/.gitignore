@@ -1,0 +1,11 @@
+# Dependencies
+node_modules
+
+# Enviropment
+.env
+
+# TS tools
+eslint.config.js
+
+# Editors formatters
+.prettierrc
