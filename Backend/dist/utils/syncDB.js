@@ -1,5 +1,4 @@
 import sequelize from '../config/db.js';
-// ? import "NombreModelo" from '../models/"NombreModelo.js"
 const syncDatabase = async () => {
     try {
         // * Sincroniza la base de datos y crea la tabla si no existe...

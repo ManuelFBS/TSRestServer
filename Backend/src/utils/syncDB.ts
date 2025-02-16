@@ -1,5 +1,5 @@
 import sequelize from '../config/db.js';
-// ? import "NombreModelo" from '../models/"NombreModelo.js"
+import User from '../models/User.js';
 
 const syncDatabase = async () => {
     try {
